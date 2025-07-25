@@ -147,7 +147,7 @@ const API_SITES = {
     //     name: 'souav资源',
     //     adult: true
     // },
-    // r155: {
+    r155: {
          api: 'https://155api.com',
          name: '155资源',
          adult: true
