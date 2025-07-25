@@ -148,10 +148,10 @@ const API_SITES = {
     //     adult: true
     // },
     // r155: {
-    //     api: 'https://155api.com',
-    //     name: '155资源',
-    //     adult: true
-    // },
+         api: 'https://155api.com',
+         name: '155资源',
+         adult: true
+     },
     // lsb: {
     //     api: 'https://apilsbzy1.com',
     //     name: 'lsb资源',
