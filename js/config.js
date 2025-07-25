@@ -132,6 +132,11 @@ const API_SITES = {
     //     name: 'CK资源',
     //     adult: true
     // },
+     ckzy: {
+         api: 'https://155api.com/api.php/provide/vod',
+         name: '155资源',
+        adult: true
+    },
     // jkun: {
     //     api: 'https://jkunzyapi.com',
     //     name: 'jkun资源',
